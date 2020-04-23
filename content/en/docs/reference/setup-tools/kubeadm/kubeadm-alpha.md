@@ -65,7 +65,6 @@ to enable the DynamicKubeletConfiguration feature.
 
 {{< tabs name="tab-kubelet" >}}
 {{< tab name="kubelet" include="generated/kubeadm_alpha_kubelet.md" />}}
-{{< tab name="download" include="generated/kubeadm_alpha_kubelet_config_download.md" />}}
 {{< tab name="enable-dynamic" include="generated/kubeadm_alpha_kubelet_config_download.md" />}}
 {{< /tabs >}}
 
